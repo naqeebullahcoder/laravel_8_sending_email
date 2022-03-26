@@ -1,0 +1,263 @@
+/* 
+  Consumer Style Sheet
+  Version 1.0 - 27 Dec 2007
+*/
+.signup form .subform .group, .signup form .subform .multi {margin-left:1.7em;}
+.signup form .subform div.wrapper fieldset p {margin-left:0;}
+input.large {width:200px;}
+#topupLightbox {display:none; text-align:center;}
+.onboarding #main .layout1 p.subTitle {margin-top:0px;}
+.onboarding #main .layout1 p.subTitle.dbsTitle {margin-top:20px;}
+.onboarding #main .layout1 ul.titleDescDbs li{margin-left:0.25em;background:none;list-style:disc inside none;}
+.onboarding #main .layout h2 {color:#C68038;}
+.onboarding #main form p.checkboxparagraph {padding-left:0px;}
+.onboarding #main form p.UAcheckbox label,.onboarding #main form p.checkboxparagraph label {display:inline}
+.onboarding #content #headline h3 {color:#C68038;}
+.onboarding #content .messageBox ul {height:auto;left:0pt;line-height:12pt;overflow:visible;position:relative;text-indent:0pt;top:0pt;width:auto;}
+.onboarding #main h4 {margin:1em 0; color:#369; font-size:1.3em;}
+.onboarding #main h4 span.subhead {display:block; margin-top:-4px; margin-bottom:-4px; font-size:2em; line-height:1em;}
+.onboarding #main h4 span.subheadRHB {display:block; margin-top:-4px; margin-bottom:-4px; font-size:1.7em; line-height:1.2em;}
+.onboarding #main div.topupChoiceRHB label.radio {float:left; width:100%; font-weight:bold;}
+.onboarding #main div.topupChoiceRHB label.radio input {float:left;}
+.onboarding #main div.topupChoiceRHB label.radio span.topupLabel {float:left; display:block;}
+.onboarding #main div.topupChoiceRHB span.topupNote {float:left; display:block; width:180px; margin:0; padding:0 5px; color:#757575; font-size:0.9em; font-weight:normal;}
+.onboarding #main ul li {margin:1em 0; padding-left:14px; background:url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_arrow_4x6.gif) no-repeat 2px 4px; list-style:none;}
+.onboarding #main form {border:1px solid #ccc; padding:0.67em 2.5em 2.5em 2.5em; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_backGradient_1x250.gif) left bottom repeat-x;}
+.onboarding #main form span.ccicons img {vertical-align:bottom;}
+
+.onboarding #main form div.scrollbox {background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_BlueGradient_1x23.gif) left top repeat-x; position:relative; margin:0; border:1px solid #ccc;}
+.onboarding #main form div.scrollbox div.header {border-bottom:1px solid #ccc;height:23px;}
+.onboarding #main form div.scrollbox div.header h3 {cursor:pointer;padding-left:15px; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_blueArrow_down.gif) 1px center no-repeat; color:#084482; font-weight:normal; font-size:1em; text-decoration:underline; font-weight:bold;}
+.onboarding #main form div.scrollbox div.header a {position:absolute; top:5px; right:5px;}
+.onboarding #main form div.scrollbox div.uapdspp {display:block;height:75px; overflow:auto; padding:0 1em;}
+.onboarding #main form div.scrollbox.closed div.header h3 {background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_blueArrow_up.GIF) 3px center no-repeat;}
+.onboarding #main form div.scrollbox.closed div.PrdRBC, .onboarding #main form div.scrollbox.closed div.uapdspp {display:none;}
+.onboarding form div.wrapper, .onboarding form div.wrapper .expDateCont, .onboarding form div.wrapper .cardIssueCont {clear:both; height:1%; overflow:auto;}
+.onboarding form div.wrapper fieldset#fieldrowExpDate {padding-bottom:12px;}
+.onboarding form div.wrapper p#paraCSC a {margin-left:5px;}
+.onboarding form div.wrapper p#cardIssueInfo, .funding #main div#fundSourceCC .container div.wrapper p#cardIssueInfo {float:left; margin:0; padding-bottom:12px;}
+
+
+.onboarding.landing #main .layout3 .col  div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:147px;}
+.landing #main .layout2 .col {border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x;}
+.landing #main .layout3 .col h3, .landing #main .layout2 .col h3 {margin:0.4em 30px 0 27px; color:#333; font-size:19px; font-weight:normal;}
+.layout1 h3{color:#C88039;}
+.landing #main .layout3 .col p, .landing #main .layout2 .col p {margin:0 30px 1.67em 30px; line-height:1.2em;}
+.landing #main .layout3 .col p.subhead, .landing #main .layout2 .col p.subhead {font-size: 13px;}
+.landing img.flag {padding:3px 3px 1px 10px;vertical-align:top;}
+.landing .upgrade {text-align:right;margin:0.2em 0pt 0em 0pt;}
+.landing #main form, .confirmbank #main form, .ccsuccess #main form {border:none; padding:0; background:none;}
+
+.International #main .layout2 .col, .International #main .layout3 .col div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:203px;}
+.shortboxFR #main .layout2 .col, .shortboxFR #main .layout3 .col div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:262px;} 
+.shortboxDE #main .layout3 .col div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:230px;}
+.shortboxDE #main .layout2 .col{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:223px;}
+.shortboxDE #main .layout1 div.Box {border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:133px;padding:17px 30px 30px 30px;}
+.shortboxES #main .layout3 .col div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:205px;}
+.shortboxES #main .layout2 .col>div{border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:267px;}
+.shortboxZH #main .layout2 .col>div{height:301px;}
+.landing #main .layout2 div.Box, .International #main .layout2 div.Box {height:165px;}
+
+.shortboxAU #main .layout3 .col  div{height:257px;}
+
+.shortboxFR #main .layout2 .col {height:147px;}
+.shortboxIN #main .layout2 .col, .shortboxIN #main .layout3 .col div{height:246px;}
+.shortboxIN .acctTip{font-weight:normal;}
+.shortboxC2 #main .layout3 .col div{background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/bg-gradient.gif) left bottom repeat-x; height:225px;}
+
+.shortboxTW #main .layout3 .col  div{height:300px;}
+.shortboxC2 #main .layout3 .col h3, .shortboxTW #main .layout3 .col h3, .landing #main .layout2 .col h3 {margin:0.4em 30px 0 0.4em;}
+.shortboxC2 #main .layout3 .col p, .shortboxTW #main .layout3 .col p, .landing #main .layout2 .col p {margin:0.6em 30px 1.67em 9px;}
+.shortboxTW #main .layout3 .col ul, .landing #main .layout2 .col ul {margin:1.6em 10px;}
+.shortboxTW #main .layout1 div.learnContainer, .International #main .layout1 div.learnContainer {margin-top:27.3em; padding:0px; border-top:1px dotted #cccccc; border-bottom:1px dotted #cccccc;}
+.shortboxTW #main .layout1 div.learnArrow, .International #main .layout1 div.learnContainer p.learnArrow {margin:15px 0 15px 0; padding-left:20px; background:transparent url(/WEBSCR-640-20101108-1/en_US/TW/i/scr/scr_arrow_orange.gif) no-repeat scroll 0 0;font-weight:bold;}
+.shortboxTW #main form .layout1 p.upgrade {margin-bottom:4px;}
+ 
+.shortboxTH #main .layout3 .col div{height:267px;}
+.International.shortboxTH #main .layout1 div.learnContainer{margin-top:24.7em; padding:0px; border-top:1px dotted #ccc; border-bottom:1px dotted #ccc;}
+.shortboxTH #main .layout1 div.learnContainer p{margin:15px 0 15px 0; padding-left:20px; background:transparent url(/WEBSCR-640-20101108-1/en_US/TH/i/scr/scr_arrow_orange.gif) no-repeat scroll 0 0;font-weight:bold;}
+.shortboxTH #main .layout3 .col h3{margin:0.4em 30px 0 0.4em;}
+.shortboxTH #main .layout3 .col p, .shortboxTH #main .layout3 .col ul{margin:1.6em 10px;}
+.shortboxTH #main .layout3 .col ul.help li{font-size:0.9em;margin:0.1em 1em 20px 10px}
+.shortboxTH #main form .layout1 p.upgrade {margin-bottom:4px;}
+.shortboxEMR #main .layout2 .col {height:290px;}
+
+.signup #main .layout1 form .subform div.wrapper {margin-left:1.7em;}
+.signup #main .layout1 form p.checkboxparagraph .checkbox {margin-left:0px;}
+.signup #main form {clear:both; overflow:auto; height:1%;}
+.signup #main form div.wrapper p.CSCPara {float:left; margin:0; padding-bottom:12px;}
+.signup #main form .subform div.wrapper p.wrapCSCPara{float:left; margin-top:0; margin-bottom:0; padding-bottom:12px;}
+.signup #main form .subform div.wrapper fieldset#fieldrowDOB {float:none; clear:both; margin-bottom:12px;}
+.signup #main form div.wrapper p.CSCPara, .funding #main div#fundSourceCC .container div.wrapper p.CSCPara {float:left; margin:0; padding-bottom:12px;}
+.signup #main form .subform .fieldsetcc .text, .funding #main div#fundSourceCC .container div.wrapper .fieldsetcc .text {color:#ccc; margin-right:5px;}
+
+
+input[type=checkbox], input[type=radio], input[type=hidden] {border:none; padding:0;}
+input.checkbox, input.radio, input.hidden {border:none; padding:0;}
+.funding #main p.notes {font-size:.9em;}
+.funding #main form input#cc_number {width:128px;}
+.funding #main form {border:none; padding:0px; background:none;}
+.funding #main .layout1 p.buttons, .funding #main .layout2 p.buttons {margin-top:17px;}
+.funding #main .layout1 .customBox, .funding #main .layout2 .customBox {height:30em;}
+.funding #main .layout1 .mediumBox, .funding #main .layout2 .mediumBox {height:230px;}
+.funding #main .layout1 .tallBox, .funding #main .layout2 .tallBox {height:390px;}
+.funding #main .layout1 h4, .funding #main .layout2 h4 {margin-top:16px;}
+.funding #main .layout1 ul li, .funding #main .layout2 ul li {margin:.4em 0;}
+.funding #main .layout1 fieldset div input.radio, .funding #main .layout1 fieldset div input[type=radio], .funding #main .layout2 fieldset div input.radio, .funding #main .layout2 fieldset div input[type=radio] {margin-left:0px;}
+.funding #main .layout2 .container {padding-left:30px; padding-right:30px;}
+/* Common for bank and CC */
+.funding #main div.container {border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_backGradient_1x250.gif) left bottom repeat-x;}
+/* Bank Expand */
+.funding #main div#fundSourceBank .container {height:1%; overflow:auto; clear:both; padding:0 30px 18px 30px;}
+.funding #main div#fundSourceBank .container .info {width:338px; float:left;}
+.funding #main div#fundSourceBank .container form {width:338px; float:right; margin-top:4px;}
+.funding #main div#fundSourceBank .container p.buttons {margin-top:20px;}
+.funding #main div#fundSourceBank .container form p {margin-left:0px;}
+.funding #main div#fundSourceBank .container fieldset p.refresh {margin-top:1em;}
+.funding #main div#fundSourceBank .container .subheading {margin-top:12px; color:#336699; font-size:1.167em; font-weight:bold;}
+.funding #main div#fundSourceBank .container table.notificationBox {background-color:#EFF7FE; border:1px solid #83A8CC;}
+.funding #main div#fundSourceBank .container .small {font-size:0.91em; font-weight:normal;}
+.funding #main div#fundSourceBank .container span.emphasis {font-weight:bold;}
+.funding #main div#fundSourceBank .container table.tableGreyBackground {background-color:#CCCCCC;}
+.funding #main div#fundSourceBank .container tr.tableRowLightGrey {background-color:#EEEEEE;}
+.funding #main div#fundSourceBank .container .smallEmphasis {font-size:0.91em; font-weight:bold;}
+.funding #main div#fundSourceBank .container tr.tableRowWhite {background-color:#FFFFFF;}
+.funding #main div#fundSourceBank .container fieldset legend.dobLegend {margin-left:0px;}
+
+/* Credit Card Expand */
+.funding #main div#fundSourceCC .container {height:1%; overflow:auto; clear:both; padding:0 30px 30px 30px;}
+.funding #main div#fundSourceCC .container .info {width:338px; float:right;}
+.funding #main div#fundSourceCC .container form.formFundCC {float:left; width:338px; margin-top:4px;}
+.funding.parentFlow #main div#fundSourceCC .container form.formFundCC {float:left; width:auto; margin-top:4px;}
+.funding #main div#fundSourceCC .container p.buttons {margin-top:20px;}
+.funding #main div#fundSourceCC .container input.radio, .funding #main div#fundSourceCC .container input[type=radio] {margin-left:0px;}
+.funding #main div#fundSourceCC .container fieldset p {margin:0px; padding:2px 10px 2px 0px;}
+.funding #main div#fundSourceCC .container span.blockDisp {display:block;}
+/* Blue Box */
+.funding #main div#fundSourceCC .container div#billingAddContent {clear:both; height:1%; overflow:hidden; margin-bottom:12px;}
+.funding #main div#fundSourceCC .container div.dispBillingAddress {overflow:hidden; float:left; width:160px; margin-bottom:0px; padding-left:10px;}
+.funding #main div#fundSourceCC .container fieldset#select-billing-address {width:280px; float:left; margin-bottom:0px; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_hashedbg_4x4.gif) repeat scroll center; padding-left:12px; padding-bottom:12px;}
+.funding #main div#fundSourceCC .container fieldset#select-billing-address li {background-image:none; list-style:none;}
+.funding #main div#fundSourceCC .container div.edit {width:280px; height:1%; overflow:hidden; clear:both; border:medium none; padding-right:30px;}
+.funding #main div#fundSourceCC .container div.edit fieldset, .funding #main .layout1 div#insert-billing-address {border:1px solid #CCDDEE; padding:0px 1em 1em 1em;}
+.funding #main div#fundSourceCC .container div#insert-billing-address {width:280px; float:left; margin-top:12px; padding-bottom:12px; padding-left:12px; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_hashedbg_4x4.gif) repeat scroll center;}
+.funding #main div#fundSourceCC .container div#insert-billing-address fieldset {margin-bottom:0px; border:none; padding:0px;}
+.funding #main div#fundSourceCC .container div#insert-billing-address p {margin-left:0px; padding:0px;}
+.funding #main div#fundSourceCC .container div#insert-billing-address fieldset.multi p {float:none; margin:0px 0px 1em 0px;}
+.funding #main div#fundSourceCC .container div#insert-billing-address.zipJP fieldset.multi p {float:left;}
+.funding #main div#fundSourceCC .container div.edit fieldset li {display:block; margin-right:0px; padding-left:10px;}
+.funding #main div#fundSourceCC .container div.edit fieldset li label {display:inline;}
+.funding #main div#fundSourceCC .container div#billingAddContent div.edit fieldset li a {padding-left:5px; font-size:.9em;}
+.funding #main div#fundSourceCC .container div#billingAddContent label#billing_address_label {float:left;}
+.funding #main div#fundSourceCC .container p.ccExpPara {margin-top:20px; margin-bottom:0; clear:both;}
+.funding #main div#fundSourceCC .container input.transparentButton {margin-left:-3px;}
+.funding #main div#fundSourceCC .container div.buttonrow input.done {margin-right:10px; border:1px solid #85A7CA; padding:2px 10px; background:#AFC8F1 url(/WEBSCR-640-20101108-1/en_US/i/btn/btn_secondary_1x50.gif) repeat-x scroll left top; font-size:11px;}
+.funding #main div#fundSourceCC .container div.buttonrow input.cancel, div.buttonRow input.cancel {margin-top:5px; border:1px solid #ACADAF; padding:2px 10px; color:#777777; background:#BCBCBB url(/WEBSCR-640-20101108-1/en_US/i/btn/btn_cancel_1x50.gif) repeat-x scroll left top; font-size:11px;}
+.funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .region{padding:0pt 0.3em 0pt 0pt;}
+.funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .postal-code{padding:0pt 0.3em 0pt 0pt;}
+.funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .locality{padding:0pt 0.3em 0pt 0pt;}
+.funding #main div#fundSourceCC .container div.wrapper fieldset#fieldrowDOB {float:none; clear:both; margin-bottom:12px;}
+.funding #main div#fundSourceCC .container div.wrapper fieldset#fieldrowDOB legend span {padding-left:0px;}
+.funding #main div#fundSourceCC .container div.wrapper p.wrapCSCPara {float:none; clear:both; margin-top:0; margin-bottom:0; padding-bottom:12px;}
+.funding #main div#fundSourceCC .container div.wrapper p.wrapCSC {float:none; clear:both;}
+
+.funding #main div#fundSourcePP {margin-top:12px;}
+
+/* Funding Source - Email Flow */
+.emailCC #main .layout2 .last {float:left;}
+.emailCC #main .layout2 .first {float:none; display:none;}
+.emailCC #main div#fundSourceCC .container .info {float:left;}
+.emailCC #main div#fundSourceCC .container form.formFundCC {float:right;}
+
+.reenter #main div#fundSourceCC .container form.formFundCC {float:none; width:688px; margin-top:16px;}
+.reenter #main div#fundSourceCC .container div.dispBillingAddress {width:auto;}
+.reenter #main div#fundSourceCC .container .info {float:none; display:none;}
+.reenter #main div#fundSourceCC .container p.ccExpPara {margin-top:7px; clear:both;}
+.reenter #main div#fundSourceCC .container div.wrapper p.wrapCSCPara {float:left; clear:none;}
+
+.confirmbank #main div.container p.para {position:relative}
+.confirmbank #main div.container {border:1px solid #ccc; padding:20px 30px 30px 30px;background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_backGradient_1x250.gif) left bottom repeat-x;}
+.confirmbank #main div.container h4 {color:#333; font-size:1em;}
+.confirmbank div.container ol {margin:1.5em 0;}
+.confirmbank div.container li {margin-top:1em;}
+.confirmbank #main .layout1 {margin:1em 0;}
+.confirmbank #main .layout2 .col {border:1px solid #ccc;}
+.confirmbank #main .layout2 .col form {border:none; padding:0;}
+.confirmbank #main .layout2 .col {border:1px solid #ccc; background:transparent url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_backGradient_1x250.gif) left bottom repeat-x; height:auto;}
+.confirmbank #main .layout2 h4 {margin:1em 30px 0 30px; color:#336699;}
+.confirmbank #main .layout2 p  {margin: 1em 30px 1em 30px;}
+.confirmbank #main .layout2 li {margin:.8em 30px;}
+.confirmbank #main .headTitle{font-size:16px; color:#333333;}
+.confirmbank #BankVerification input#iavButton{margin-top:6px;}
+.confirmbank #BankVerification input#rdButton{margin-top:3px;}
+.confirmbank #main .layout2 .col.last {float:right; height:390px;}
+
+.ccsuccess #main .layout3 .col h3 {margin:.5em 30px; color:#369; font-size:2.2em; font-weight:normal; text-decoration:underline;}
+.ccsuccess #main .layout3 .col p {margin:.9em 30px; line-height:1.4em;}
+.ccsuccess #main .layout3 .col p a {padding-right:7px; background:url(/WEBSCR-640-20101108-1/en_US/i/scr/scr_arrow_4x6.gif) right center no-repeat; text-transform:uppercase;}
+
+fieldset.multi p{float:left; margin:0pt 1em 0pt 0pt;}
+input.hidden {display:none;}
+input.transparentButton {margin:0pt; border:medium none; padding-left:0pt; padding-right:0pt; color:#0033CC; background-color:#FFFFFF; text-align:left; text-decoration:underline; cursor:pointer;}
+label.nonEditable {display:block;float:left;margin-right:10px;}
+span.error{color:#FF0000;background:none;}
+span#ccicons img {vertical-align:middle; margin-right:2px;}
+span.sub {cursor:pointer;color:#0000FF;font-size:0.9em;margin-left:5px;text-decoration:underline;}
+span.autoTooltipTitle {margin-left:5px; color:#084482; font-size:.9em; text-decoration:underline; cursor:pointer;}
+.dispInline {display:inline;}
+
+.onboarding form div.wrapper fieldset.multi {float:left; margin:0;}
+.landing #main .layout3 .col h3.customHeading, .landing #main .layout2 .col h3.customHeading {font-size:2.0em;}
+div.MktMPI a{outline:none}
+.landing #main .layout3 .col h3.customHeading, .landing #main .layout2 .col h3.customHeading {font-size:2.0em;}
+.onboarding #main .MktMPI h4 span.subhead{padding:9px 0px 10px;}
+.onboarding #main .MktMPI h4 span.customMPI{padding:0 !important;}
+.onboarding #main .customBankWrapper .MktMPI img{margin:20px 0 8px;}
+
+.landing #main .layout3 .col h3.customHeadingC2, .landing #main .layout2 .col h3.customHeadingC2 {color:#333333;font-size:1.47em;font-weight:normal;margin:0.4em 30px 0 0.4em;}
+.landing #main .layout3 .col p.custPara, .landing #main .layout2 .col p.custPara {margin:0.6em 30px 1.67em 9px; line-height:1.2em;}
+.landing #main .layout3 .col ul, .landing #main .layout2 .col ul {margin:1.6em 10px;}
+.landing #main .layout1 div.learnContainer, .International #main .layout1 div.learnContainer {margin:21em 0 0 0; padding:0px; border-top:1px dotted #cccccc; border-bottom:1px dotted #cccccc;}
+.landing #main .layout1 div.learnArrow, .International #main .layout1 div.learnContainer p.learnArrow {background:transparent url(/WEBSCR-640-20101108-1/en_US/C2/i/scr/scr_arrow_orange.gif) no-repeat scroll 0 0; margin:15px 0 15px 0; padding-left:20px;}
+.shortboxC2 #main form .layout1 p.upgrade {margin-bottom:10px;}
+.signup form .subform .multi p.group {margin-left:0px;}
+
+/* 50-50 BC */
+.onboarding #main .customBCwrapper .MktMPI img {margin-top:20px;}
+/* Link CC */
+.funding #main div#fundSourceCC .container .bcOption {width:318px;padding:10px;background-color:#E8F1FA;height:1%;}
+.funding #main div#fundSourceCC .container .bcOption #applybc {float:left;}
+.funding #main div#fundSourceCC .container .bcOption label {padding:0;margin:0 0 0 1.85em;}
+span.buttonAsLink input#linkbc {margin-bottom:3px;}
+
+.rtl .landing .upgrade {text-align:left;}
+.rtl form fieldset.multi legend, .rtl form fieldset.group legend {margin-right:0; margin-left:1.5em;}
+.rtl .signup form .subform .group, .rtl .signup #main .layout1 form .subform div.wrapper {margin-left:0; margin-right:1.7em;}
+.rtl .onboarding form div.wrapper fieldset.multi, .rtl .funding #main div#fundSourceCC .container form.formFundCC, .rtl .signup #main form div.wrapper p.CSCPara, .rtl .funding #main div#fundSourceCC .container div.wrapper p.CSCPara, .rtl .funding #main div#fundSourceCC .container div#insert-billing-address.zipJP fieldset.multi p, .rtl .funding #main div#fundSourceCC .container div#billingAddContent label#billing_address_label, .rtl .emailCC #main .layout2 .last {float:right;}
+.rtl .signup form .subform div.wrapper fieldset p {float:none; display:inline; margin-left:5px; margin-right:0; zoom:1;}
+.rtl .funding #main div#fundSourceCC .container .info {float:left;}
+.rtl .funding #main div#fundSourceCC .container input.radio, .rtl .funding #main div#fundSourceCC .container input[type=radio], .rtl .funding #main div#fundSourceCC .container div#insert-billing-address p {margin-right:0;}
+.rtl .funding #main div#fundSourceCC .container fieldset p {padding:2px 0 2px 10px;}
+.rtl .funding #main div#fundSourceCC .container #fieldrowExpDate p {float:none; display:inline; zoom:1;}
+.rtl .funding #main div#fundSourceCC .container div.dispBillingAddress {float:right; padding-left:0; padding-right:10px;}
+.rtl .funding #main div#fundSourceCC .container fieldset#select-billing-address {float:right; padding-left:0; padding-right:12px;}
+.rtl .funding #main div#fundSourceCC .container div.edit {padding-right:0; padding-left:30px;}
+.rtl .funding #main div#fundSourceCC .container div#insert-billing-address {float:right; padding-left:0; padding-right:12px;}
+.rtl .funding #main div#fundSourceCC .container div.edit fieldset li {margin-left:0; padding-left:0; padding-right:10px;}
+.rtl .funding #main div#fundSourceCC .container div#billingAddContent div.edit fieldset li a {padding-left:0; padding-right:5px;}
+.rtl .funding #main div#fundSourceCC .container input.transparentButton {margin-left:0; margin-right:-3px;}
+.rtl .funding #main div#fundSourceCC .container div.buttonrow input.done {margin-right:0; margin-left:10px;}
+.rtl .funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .region, .rtl .funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .postal-code, .rtl .funding #main div#fundSourceCC .container div#billingAddContent .dispBillingAddress div#billing-address-display .vcard .adr .locality {padding:0 0 0 .3em;}
+.rtl .funding #main div#fundSourceCC .container div.wrapper fieldset#fieldrowDOB legend span {padding-right:0;}
+.rtl .onboarding #main ul li {padding-left:0; padding-right:14px; background:url(/WEBSCR-640-20101108-1/en_US/i/scr/rtl_scr_arrow_4x6.gif) no-repeat 99% 6px;}
+.rtl .signup #main .layout1 form p.checkboxparagraph .checkbox {margin-right:0; margin-left:.25em;}
+.rtl .messageBox li, input.cancel{zoom:1;}
+.rtl label.nonEditable {float:right; margin-left:10px; margin-right:0;}
+.rtl .confirmbank #main div.container {zoom:1;}
+
+div#cupMarketingBanner {margin-top:20px; background-image:url(/WEBSCR-640-20101108-1/en_US/i/bnr/bnr_CUPupsell_290x75.gif); width:290px;}
+.cupMarketingContent {width: 300px; margin-left:55px;}
+span#ccicons {display: none;}
+fieldset#bankInfoCUP{margin-bottom: 0px;}
+.cupHelpText{white-space: normal;}
+fieldset#bankInfoCUP legend span.label{margin-bottom: 0px;}

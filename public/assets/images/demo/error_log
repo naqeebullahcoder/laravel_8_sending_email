@@ -1,0 +1,1 @@
+[05-Apr-2016 15:53:49 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_openssl.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0

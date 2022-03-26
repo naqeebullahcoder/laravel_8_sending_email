@@ -1,0 +1,357 @@
+.outside #content .main .zone {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; MARGIN: 0px; OVERFLOW: auto; PADDING-TOP: 0px
+}
+.outside #content .main .zone IMG {
+	VERTICAL-ALIGN: middle
+}
+.outside #content .main .zone .box {
+	CLEAR: none; PADDING-RIGHT: 0px; BORDER-TOP: #e0e0e0 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: 0px 16px; PADDING-TOP: 1em
+}
+.outside #content .main .zone .box H3 {
+	BACKGROUND: url(../init_files/container_h3_bg.gif) repeat-x left bottom; MARGIN-BOTTOM: 1.5em; PADDING-BOTTOM: 0.3em
+}
+.outside #content .main .zone .box UL LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../init_files/icon_content_arrow.gif) no-repeat 2px 4px; MARGIN: 0px; LIST-STYLE-TYPE: none
+}
+.outside #content .main .zone #hero IMG {
+	WIDTH: 560px
+}
+.nologin #content .main .zone #hero IMG {
+	WIDTH: 760px
+}
+.home #content .main .zone #hero {
+	OVERFLOW: hidden
+}
+.home #content .main {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BACKGROUND: url(../init_files/container_bg.jpg) repeat-x left bottom; FLOAT: right; PADDING-BOTTOM: 1px; BORDER-LEFT: #ccc 1px solid; WIDTH: 560px; BORDER-BOTTOM: #ccc 1px solid
+}
+.home #content .main .subhead {
+	MIN-HEIGHT: 1.2em; MARGIN-BOTTOM: 1.4em; POSITION: relative
+}
+.home #content .main .subhead P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+.home #content .main .subhead DIV {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 25px; RIGHT: 0px; BACKGROUND: url(../init_files/bg_grey_slant.gif) no-repeat left bottom; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; POSITION: absolute; TOP: 0px
+}
+.home #content .main .subhead DIV P {
+	DISPLAY: inline; MARGIN: 5px
+}
+.home #content .main .subhead DIV UL {
+	DISPLAY: inline
+}
+.home #content .main .subhead DIV UL LI {
+	DISPLAY: inline; MARGIN: 0px
+}
+.home #content .main .subhead DIV UL LI IMG {
+	VERTICAL-ALIGN: middle
+}
+.home #content .main .subhead A.arrow {
+	PADDING-LEFT: 17px; FONT-WEIGHT: bold; BACKGROUND: url(../init_files/icon_orange_arrow.gif) no-repeat 0px 50%; MARGIN-LEFT: 10px
+}
+.home #content .main .zone .box H4 {
+	MARGIN: 0.5em 16px; COLOR: #333
+}
+.home #content .main .zone .box P {
+	MARGIN: 0.5em 16px
+}
+.home #content .main .zone .box UL LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../init_files/icon_content_arrow.gif) no-repeat 2px 4px; LIST-STYLE-TYPE: none
+}
+.home #content .main .simpleList .box {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 1em 16px; WIDTH: 245px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.home #content .main .simpleList .box P {
+	PADDING-LEFT: 1em; MARGIN: 1em 0px
+}
+.home #content .main .simpleList .box UL LI {
+	MARGIN: 1em 0px
+}
+.home #content .main .simpleList .box SPAN {
+	DISPLAY: block
+}
+.home #content .main .imageList {
+	PADDING-RIGHT: 0px; BORDER-TOP: #e0e0e0 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: 0px 16px; PADDING-TOP: 1em
+}
+.home #content .main .imageList .box {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 10px; WIDTH: 240px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.home #content .main .imageList .box H4 {
+	MARGIN: 0.5em 0px 0.5em 65px; COLOR: #333
+}
+.home #content .main .imageList .box SPAN {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; MARGIN-TOP: 0.4em; DISPLAY: block; FLOAT: left; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+.home #content .main .imageList .box SPAN IMG {
+	BORDER-RIGHT: #fff 3px solid; BORDER-TOP: #fff 3px solid; DISPLAY: block; BORDER-LEFT: #fff 3px solid; BORDER-BOTTOM: #fff 3px solid
+}
+.home #content .main .imageList .box UL {
+	MARGIN-LEFT: 65px; LIST-STYLE-TYPE: none
+}
+.home #content .main .imageList .box UL LI {
+	MARGIN: 0.5em 0px
+}
+.home #content .main .imageList .box P {
+	MARGIN: 0.5em 0px 0.5em 65px
+}
+.home #content .main .splitList .box {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.home #content .main .splitList .box UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; MARGIN: 0px; OVERFLOW: auto; PADDING-TOP: 0px
+}
+.home #content .main .splitList .box UL LI {
+	FLOAT: left; MARGIN: 0px 20px 1em 0px; WIDTH: 230px
+}
+UNKNOWN {
+	CLEAR: left
+}
+UNKNOWN {
+	CLEAR: none
+}
+.home #content .main .singleList .box {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.home #content .main .singleList .box UL LI {
+	MARGIN: 0.8em 0px
+}
+.home #content .box {
+	BORDER-RIGHT: #d2d6d9 1px solid; BORDER-TOP: #d2d6d9 1px solid; FLOAT: left; MARGIN: 0px 0px 5px 5px; BORDER-LEFT: #d2d6d9 1px solid; WIDTH: 178px; BORDER-BOTTOM: #d2d6d9 1px solid
+}
+.home #content .box .header {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../init_files/box_hdr_bg.jpg) #d2d6d9 repeat-x left top; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.5em
+}
+.home #content .box .header H2 {
+	FONT-SIZE: 1em; COLOR: #333
+}
+.home #content .box .header H3 {
+	FONT-SIZE: 1em; COLOR: #333
+}
+.home #content .box .header H4 {
+	FONT-SIZE: 1em; COLOR: #333
+}
+.home #content .box .body {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../init_files/box_body_bg.jpg) #d2d6d9 repeat-y left top; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.home #content .login {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+.home #content .welcome {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+.home #content .login .header {
+	BACKGROUND: url(../init_files/login_hdr_bg.jpg) #bababa repeat-x left top
+}
+.home #content .welcome .header {
+	BACKGROUND: url(../init_files/login_hdr_bg.jpg) #bababa repeat-x left top
+}
+.home #content .login .header H2 {
+	PADDING-RIGHT: 15px; DISPLAY: inline; BACKGROUND: url(../init_files/icon_login_lock.gif) no-repeat right center
+}
+.home #content .login .body {
+	BACKGROUND: url(../init_files/login_body_bg.jpg) repeat-y left top
+}
+.home #content .welcome .body {
+	BACKGROUND: url(../init_files/login_body_bg.jpg) repeat-y left top
+}
+.home #content .login P {
+	FONT-SIZE: 0.9em; MARGIN: 0px 0px 1em
+}
+.home #content .welcome P {
+	FONT-SIZE: 0.9em; MARGIN: 0px 0px 1em
+}
+.home #content .login FORM FIELDSET {
+	MARGIN: 1em 0px
+}
+.home #content .login FORM LEGEND {
+	DISPLAY: block; LEFT: -500em; OVERFLOW: hidden; WIDTH: 1px; TEXT-INDENT: -9999em; LINE-HEIGHT: 0; POSITION: absolute; TOP: 0px; HEIGHT: 1px
+}
+.home #content .welcome FORM LEGEND {
+	DISPLAY: block; LEFT: -500em; OVERFLOW: hidden; WIDTH: 1px; TEXT-INDENT: -9999em; LINE-HEIGHT: 0; POSITION: absolute; TOP: 0px; HEIGHT: 1px
+}
+.home #content .login FORM LABEL {
+	FONT-SIZE: 1.1em; MARGIN: 0px 0px 0.1em
+}
+.home #content .login FORM INPUT {
+	WIDTH: 146px
+}
+.home #content .welcome .header H2 {
+	PADDING-RIGHT: 20px; DISPLAY: inline
+}
+.home #content .welcome P {
+	MARGIN: 1em 0px
+}
+.home #content .welcome P A.button {
+	FONT-SIZE: 1.2em! important
+}
+.home #content .welcome FORM {
+	BORDER-TOP: #333 1px solid; PADDING-TOP: 1em
+}
+.home #content .resources UL {
+	PADDING-BOTTOM: 1px
+}
+.home #content .resources LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../init_files/icon_resources_arrow.gif) no-repeat 1px 4px; MARGIN: 0px 0px 1em; LIST-STYLE-TYPE: none
+}
+.home #content #hero {
+	Z-INDEX: -1
+}
+.home #content .advert {
+	WIDTH: 180px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.home #content .footnotes {
+	FLOAT: right; WIDTH: 560px
+}
+.nologin #content .main {
+	FLOAT: none; WIDTH: 100%
+}
+.nologin #content .main .subhead {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; MARGIN-BOTTOM: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+.nologin #content .main .subhead H3 {
+	BACKGROUND: url(../init_files/container_h3_bg.gif) repeat-x left bottom; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0.3em
+}
+.nologin #content .main .subhead DIV {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.nologin #content .main .simpleList .box {
+	FLOAT: left; MARGIN: 1.5em; WIDTH: 45%
+}
+.nologin #content .main .simpleList .box H4 {
+	MARGIN: 0.5em 0px
+}
+.nologin #content .main .imageList {
+	MARGIN: 10px
+}
+.nologin #content .main .imageList .box {
+	FLOAT: left; MARGIN: 0px 16px; WIDTH: 45%
+}
+.nologin #content .footnotes {
+	FLOAT: none; WIDTH: 100%
+}
+.simple #content .main {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; MIN-HEIGHT: 25em; BACKGROUND: url(../init_files/simple_bg.gif) #fff repeat-x left bottom; PADDING-BOTTOM: 1em; OVERFLOW: auto; PADDING-TOP: 0px
+}
+.simple #content .main .zone {
+	OVERFLOW: visible
+}
+.simple #content .main .zone .box {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 1em 7%; WIDTH: 35%; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.simple #content .main .zone .box UL LI SPAN STRONG A {
+	DISPLAY: block
+}
+.corporate #content .main {
+	BACKGROUND: url(../init_files/corporate_bg.gif) repeat-x left top; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.corporate #content .main H3 {
+	FONT-SIZE: 1.3em; MARGIN: 1.7em 16px 0px
+}
+.corporate #content .main P {
+	MARGIN: 1em 16px
+}
+.corporate #content .main UL {
+	MARGIN: 1em 16px; COLOR: #c68038; LIST-STYLE-TYPE: square
+}
+.corporate #content .main LI {
+	MARGIN-BOTTOM: 0.3em; COLOR: #333
+}
+.corporate #content .main P STRONG {
+	DISPLAY: block
+}
+.corporate #content .main .headline H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 1.7em; MARGIN: 1em 16px 0px; COLOR: #c68038
+}
+.corporate #content .main .headline P {
+	FONT-SIZE: 1.2em; MARGIN: 0.3em 5em 1em 16px; LINE-HEIGHT: 1.3em; TEXT-ALIGN: left! important
+}
+.corporate #content .main .headline A {
+	FONT-WEIGHT: normal; COLOR: #084482; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-DECORATION: underline; BORDER-BOTTOM-STYLE: none
+}
+.corporate #content .box .header {
+	BACKGROUND: url(../init_files/login_hdr_bg.jpg) #bababa repeat-x left top
+}
+.corporate #content .box .body {
+	BACKGROUND: #fff
+}
+.corporate #content .sidebar LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 1em; LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.corporate #content .sidebar Q {
+	DISPLAY: block; MARGIN: 1.5em 0px 1em
+}
+.corporate #content .sidebar P A {
+	DISPLAY: block
+}
+.corporate #content .sales .header {
+	BACKGROUND: url(../init_files/box_hdr_bg.jpg) repeat-x left top
+}
+.products #content .main .box {
+	CLEAR: both; BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid
+}
+.products #content .main .box H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0.65em; COLOR: #000; PADDING-TOP: 0.65em; BACKGROUND-COLOR: #e8e8e8
+}
+.products #content .main .box UL {
+	OVERFLOW: auto; LIST-STYLE-TYPE: none
+}
+.products #content .main .box UL LI {
+	FLOAT: left; MARGIN: 0.4em 0px 0.4em 10px; WIDTH: 30%
+}
+.products #content .main .zone .box {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 20px; WIDTH: 365px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.products #content .main .zone .last {
+	FLOAT: right
+}
+.products #content .main .zone .box DIV {
+	MARGIN: -0.5em 0px 0.5em
+}
+.products #content .main .zone .box UL {
+	PADDING-LEFT: 0px; MARGIN: 1em 0px
+}
+.products #content .main .zone .box UL LI {
+	PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none; MARGIN: 0px 0px 0.9em; WIDTH: auto
+}
+.products #content .main .zone .box UL LI A {
+	DISPLAY: block; WIDTH: 90%
+}
+.partner #content H2 {
+	MARGIN-BOTTOM: 0.8em; COLOR: #c88039
+}
+.partner #content .main {
+	FLOAT: right; PADDING-BOTTOM: 1px; WIDTH: 560px; LINE-HEIGHT: 1.4em
+}
+.partner #content .main P.certified {
+	PADDING-RIGHT: 190px; BACKGROUND: url(../init_files/certified_bg.gif) no-repeat 420px 0px
+}
+.partner #content .main P STRONG {
+	DISPLAY: block
+}
+.partner #content .main .zone {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; BACKGROUND: #eaeef2; PADDING-BOTTOM: 15px; MARGIN: 1em 0px; PADDING-TOP: 15px
+}
+.partner #content .main .zone H3 {
+	FONT-SIZE: 1em; COLOR: #333
+}
+.partner #content .box {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; FLOAT: left; MARGIN: 0px 0px 5px 5px; BORDER-LEFT: #ccc 1px solid; WIDTH: 178px; BORDER-BOTTOM: #ccc 1px solid
+}
+.partner #content .box .header {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../init_files/login_hdr_bg.jpg) #bababa repeat-x left top; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.5em
+}
+.partner #content .box .header H3 {
+	FONT-SIZE: 1em; COLOR: #333
+}
+.partner #content .box .body {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.partner #content .box .body UL LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../init_files/icon_content_arrow.gif) no-repeat 2px 4px; MARGIN: 1em 0px; LIST-STYLE-TYPE: none
+}
+.partner #content .footnotes {
+	FLOAT: right; WIDTH: 560px
+}
+DIV.messageBox {
+	BORDER-RIGHT: #fc0 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #fc0 1px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; MARGIN: 1em 0px; BORDER-LEFT: #fc0 1px solid; WIDTH: auto; PADDING-TOP: 15px; BORDER-BOTTOM: #fc0 1px solid; BACKGROUND-COLOR: #ffffcc
+}
